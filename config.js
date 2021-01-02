@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: 'moves',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Curabitur eu tortor iaculis, scelerisque nibh non, finibus risus. Donec iaculis rhoncus massa nec bibendum. Aenean ac lorem a justo faucibus varius condimentum ut nibh. Proin faucibus nisi eget scelerisque consequat. Vivamus facilisis cursus lacinia. Vestibulum ex tellus, facilisis at fringilla vel, porta eget nibh. Suspendisse dignissim magna non volutpat egestas. Praesent a fermentum lacus. Aliquam erat volutpat. Aliquam eros orci, fringilla vel sapien nec, interdum viverra lectus. Nunc viverra tempus vulputate. Aliquam vitae scelerisque est, non scelerisque mauris. Pellentesque mattis sed justo quis cursus. Nulla vel consequat neque, sit amet luctus lectus. Suspendisse leo nisl, rhoncus ut justo non, mollis dignissim nibh. Suspendisse condimentum aliquet sapien eu viverra. Fusce volutpat commodo ligula, ac rhoncus diam semper non. Ut consequat magna non elit pharetra, ut sodales lectus congue. Pellentesque fringilla turpis nec nunc varius congue. Sed laoreet velit nec iaculis semper.",
   socialLinks: [
     {
       icon: 'fa-github',
