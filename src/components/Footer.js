@@ -17,10 +17,12 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Eventually.</li>
+        <li>another daily MK Gatsby site</li>
         <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
-          <a href="http://html5up.net">HTML5 UP</a>
+          <a href="https://github.com/mkuzmick/mk-gatsby-20210102">Github repo</a> 
+        </li>
+        <li>
+          <a href="hhttps://arthistoryproject.com/artists/albrecht-durer/of-the-just-shaping-of-letters/shaping-the-letters/">Dürer on the just shaping of letters just for fun</a>
         </li>
       </ul>
     </footer>

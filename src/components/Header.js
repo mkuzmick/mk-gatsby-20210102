@@ -6,8 +6,8 @@ export default function Footer() {
   return (
     <header id="header">
       <h1 style={{marginBottom: "0px"}}>{config.heading}</h1>
-      <p style={{fontSize: "1em", margin: "0em 40% 1em 0"}}>
-        Testing testing. How much test is too much text? hmmm . . . I need to have that margin ONLY come in to play on larger devices. ahf;sdjahfksd. aksdjfhalksdjf. aslkdjfh askdhf aksdfh kasdf kjah aksdfjh kasdjfh aksdjfh . kasjdfh askdjfh kajsdfh kjasdfh kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa .  kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa . kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa . kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa . kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa . kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa . kajsdfh jdf jdfs kjsd ksjdf kwe dkf wakksjfh asoidufw folif aof ofai hlai yfoaihf a foa .
+      <p style={{fontSize: "1em"}}>
+        in studying and practicing rhetoric, we attend to moves, moves that move you, turns of phrase (tropes) you return to again and again, but also tropes you turn to to "make it new." In whatever it is that comes after writing, what are the moves? Let us know, and we'll add them to our choreography . . . 
       </p>
     </header>
   );
