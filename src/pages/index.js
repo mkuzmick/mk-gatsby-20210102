@@ -8,9 +8,13 @@ import SlideShow from '../components/SlideShow';
 
 var settings = {
   images: [
-    { url: require('../assets/images/bg01.jpg'), position: 'center' },
-    { url: require('../assets/images/bg02.jpg'), position: 'center' },
-    { url: require('../assets/images/bg03.jpg'), position: 'center' },
+    { url: require('../assets/images/bg-tulle-and-truss.jpg'), position: 'center' },
+    { url: require('../assets/images/bg-truss.jpg'), position: 'center' },
+    { url: require('../assets/images/bg-saw.jpg'), position: 'center' },
+    { url: require('../assets/images/bg-clamp.jpg'), position: 'center' },
+    { url: require('../assets/images/vise-grips.jpg'), position: 'center' },
+    { url: require('../assets/images/brush-and-ink.jpg'), position: 'center' },
+    { url: require('../assets/images/table.jpg'), position: 'center' },
   ],
   // Delay.
   delay: 6000,
