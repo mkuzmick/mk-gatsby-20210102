@@ -19,11 +19,12 @@ export class EmailForm extends Component {
   render() {
     const { message } = this.state;
     return (
-      <form id="signup-form" onSubmit={this.onSubmit} method="post" action="#">
+      <form id="signup-form" name="my-move" onSubmit={this.onSubmit} method="post" data-netlify="true" action="">
+        <input type="hidden" name="form-name" value="my-move" />
         <input
-          type="email"
-          name="email"
-          id="email"
+          type="text"
+          name="my-move-text"
+          id="my-move-text"
           placeholder="your move . . ."
         />
         <input type="submit" value="dispatch" />
