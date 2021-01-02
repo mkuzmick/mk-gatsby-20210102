@@ -8,8 +8,8 @@ export class EmailForm extends Component {
   }
 
   onSubmit(e) {
-    e.preventDefault();
-    e.stopPropagation();
+    // e.preventDefault();
+    // e.stopPropagation();
     this.setState({ message: 'Boom!' });
     setTimeout(() => {
       this.setState({ message: '' });
