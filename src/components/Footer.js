@@ -22,7 +22,7 @@ export default function Footer() {
           <a href="https://github.com/mkuzmick/mk-gatsby-20210102">Github repo</a> 
         </li>
         <li>
-          <a href="hhttps://arthistoryproject.com/artists/albrecht-durer/of-the-just-shaping-of-letters/shaping-the-letters/">Dürer on the just shaping of letters just for fun</a>
+          <a href="https://arthistoryproject.com/artists/albrecht-durer/of-the-just-shaping-of-letters/shaping-the-letters/">Dürer on the just shaping of letters = a hint of what comes next</a>
         </li>
       </ul>
     </footer>
