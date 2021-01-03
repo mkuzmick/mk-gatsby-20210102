@@ -8,13 +8,6 @@ export class EmailForm extends Component {
   }
 
   onSubmit(e) {
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "my-move", ...this.state })
-    })
-      .then(() => alert("Success!"))
-      .catch(error => alert(error));
     e.preventDefault();
     e.stopPropagation();
     this.setState({ message: 'Boom!' });
